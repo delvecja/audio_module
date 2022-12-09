@@ -29,11 +29,3 @@ A debouncer module that was somewhat problematic. This debouncer was sourced fro
 ### I2C.v and Audio_Chip_Init.v
 
 These are the modules for sending bits using the I2C protocol and initilizing the Audio Chip with user settings and the Audio Clock signal. These modules were sourced from a similar project found on github by Austyn Larkin. The github repo for his project can be found [here.](https://github.com/Reenforcements/VerilogDE2115AudioFilters)
-
-## Sources
-
-[I2C and Audio Chip Initialization modules](https://github.com/Reenforcements/VerilogDE2115AudioFilters)
-
-[Wolfson WM8731 Datasheet](http://cdn.sparkfun.com/datasheets/Dev/Arduino/Shields/WolfsonWM8731.pdf)
-
-[DE2-115 User Manual](http://www.terasic.com.tw/attachment/archive/502/DE2_115_User_manual.pdf)
