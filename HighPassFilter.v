@@ -11,7 +11,7 @@ output reg [31:0]highPassFilterOutput
 reg [31:0]lastAudioIn;
 reg [31:0]lastOutput;
 
-//use 32 bits so we can do arithmetic without losing information.
+// Use 32 bits so we can do arithmetic without losing information.
 wire signed [31:0]leftAudio = {{16{currentADCData[31]}}, currentADCData[31:16]};
 wire signed [31:0]leftLastOutput = {{16{lastOutput[31]}}, lastOutput[31:16]};
 wire signed [31:0]leftLastInput = { {16{lastAudioIn[31]}}, lastAudioIn[31:16]};
