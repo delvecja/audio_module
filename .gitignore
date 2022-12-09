@@ -1,6 +1,5 @@
 *.bak
 *.sopcinfo
-*.qpf
 *.qws
 .qsys_edit
 db
