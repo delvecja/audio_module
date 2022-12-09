@@ -33,5 +33,7 @@ These are the modules for sending bits using the I2C protocol and initilizing th
 ## Sources
 
 [I2C and Audio Chip Initialization modules](https://github.com/Reenforcements/VerilogDE2115AudioFilters)
+
 [Wolfson WM8731 Datasheet](http://cdn.sparkfun.com/datasheets/Dev/Arduino/Shields/WolfsonWM8731.pdf)
+
 [DE2-115 User Manual](http://www.terasic.com.tw/attachment/archive/502/DE2_115_User_manual.pdf)
