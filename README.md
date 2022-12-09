@@ -28,7 +28,7 @@ A debouncer module that was somewhat problematic. This debouncer was sourced fro
 
 ### I2C.v and Audio_Chip_Init.v
 
-These are the modules for sending bits using the I2C protocol and initilizing the Audio Chip with user settings and the Audio Clock signal. These modules were sourced from a similar project found on github by Austyn Larkin. The github repo for his project can be found [here] (https://github.com/Reenforcements/VerilogDE2115AudioFilters)
+These are the modules for sending bits using the I2C protocol and initilizing the Audio Chip with user settings and the Audio Clock signal. These modules were sourced from a similar project found on github by Austyn Larkin. The github repo for his project can be found [here.](https://github.com/Reenforcements/VerilogDE2115AudioFilters)
 
 ## Sources
 
